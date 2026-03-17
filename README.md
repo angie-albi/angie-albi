@@ -30,5 +30,3 @@ Sono una sviluppatrice in formazione con una forte passione per la creazione di 
 ### 📫 Come contattarmi
 * 📧 **Email:** albitres2004@gmail.com
 
----
-💡 *Curiosità: Oltre a scrivere codice, ho maturato esperienza come Tutor universitario e Formatrice digitale!*
