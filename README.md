@@ -16,6 +16,7 @@ Sono una sviluppatrice in formazione con una forte passione per la creazione di 
 * **Framework, Strumenti e Database:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![JavaSwing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge)
   ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
