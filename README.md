@@ -29,6 +29,8 @@ Sono una sviluppatrice in formazione con una forte passione per la creazione di 
 * 🏥 **[TMS - Triage Management System](https://github.com/angie-albi/tms-triage-management-system):** Software gestionale ospedaliero sviluppato in team (Java, JavaFX, JDBC).
 * 🛒 **[Gestore Liste Articoli](https://github.com/angie-albi/gestore_liste_articoli):** Applicazione Desktop OOP per la gestione di inventari, completa di documentazione tecnica Javadoc e test JUnit (Java, Swing, JUnit).
 * 📇 **[Gestore Rubriche](https://github.com/angie-albi/gestorerubriche):** Desktop App per la gestione contatti con focus su design pattern MVC e testing (Java, Swing, JUnit).
+* 📇 **[CompilatoreAcDc](https://github.com/angie-albi/compilatoreacdc):** Compilatore completo sviluppato in Java che traduce il codice sorgente del linguaggio "ac" in istruzioni per la calcolatrice a stack "dc" di Linux (Java, JUnit, Pattern Visitor).
+
 
 ### 📫 Come contattarmi
 * 📧 **Email:** albitres2004@gmail.com
